@@ -17,6 +17,7 @@ body{
 	background-image: url('https://wallpapers.com/images/hd/bts-purple-theme-collage-aesthetic-c64lec6fm6by0v3e.jpg');
 	background-size: cover; 
 	background-position: center;
+	background-repeat: no-repeat;
 }
 .memory-card{
 	
